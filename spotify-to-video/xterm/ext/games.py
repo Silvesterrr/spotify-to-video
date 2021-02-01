@@ -1,0 +1,14 @@
+README.md
+setup.py
+xterm/__init__.py
+xterm/helpers.py
+xterm/main.py
+xterm.egg-info/PKG-INFO
+xterm.egg-info/SOURCES.txt
+xterm.egg-info/dependency_links.txt
+xterm.egg-info/requires.txt
+xterm.egg-info/top_level.txt
+xterm/ext/__init__.py
+xterm/ext/async.py
+xterm/ext/games.py
+xterm/ext/image.py
